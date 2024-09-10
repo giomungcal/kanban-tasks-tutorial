@@ -27,7 +27,7 @@ const Board = () => {
   }, []);
 
   return (
-    <div className="flex h-full w-full chakra-petch-regular gap-3 overflow-scroll p-12">
+    <div className="flex h-full w-full justify-center chakra-petch-regular gap-3 overflow-scroll p-12">
       <Column
         title="backlog"
         column="backlog"
