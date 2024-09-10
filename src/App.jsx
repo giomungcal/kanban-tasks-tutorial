@@ -29,7 +29,7 @@ const Board = () => {
   return (
     <div className="flex h-full w-full justify-center chakra-petch-regular gap-3 overflow-scroll p-12">
       <Column
-        title="backlog"
+        title="projects"
         column="backlog"
         headingColor="text-neutral-500"
         cards={cards}
