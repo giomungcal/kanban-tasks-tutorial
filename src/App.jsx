@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 import { FaFire } from "react-icons/fa";
 import { FiPlus, FiTrash } from "react-icons/fi";
+import { LuArrowDownNarrowWide } from "react-icons/lu";
 
 export const CustomKanban = () => {
   return (
